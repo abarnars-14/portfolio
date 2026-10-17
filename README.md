@@ -4,7 +4,7 @@ Transforming business requirements into practical digital solutions.
 
 I'm a Business Analyst with 3+ years of experience supporting digital product development, website projects, investor relations platforms, healthcare solutions and business reporting. I bridge the gap between business stakeholders and technical teams through structured requirements gathering, documentation, process analysis and Agile delivery.
 
-**View my portfolio:** https://YOUR-USERNAME.github.io/portfolio/
+**View my portfolio:** https://abarnars-14.github.io/portfolio/
 
 ## What you'll find in my portfolio
 
